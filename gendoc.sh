@@ -4,7 +4,7 @@
 #
 # lein plugin install codox "0.3.2"
 
-lein doc
+lein2 doc
 cd doc
 git checkout gh-pages
 git add .
